@@ -73,4 +73,4 @@ Démarrez le backend du site et accédez à l'interface via `http://localhost:30
 - Support multilingue pour une utilisation internationale.
 
 ## Licence
-[MIT License](LICENSE)
+[HEBC License](HEBC)
