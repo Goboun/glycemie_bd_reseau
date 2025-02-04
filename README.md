@@ -1,4 +1,4 @@
-# Projet : Système de Mesure de Glycémie Connecté
+# SysGly : Système de Mesure de Glycémie Connecté
 
 ## Description
 Ce projet, réalisé dans le cadre de la troisième année de Licence Informatique à **CY Cergy Paris Université**, vise à développer un système complet de gestion des données de glycémie des patients atteints de diabète. Il combine capteurs connectés, base de données relationnelle et échanges réseau sécurisés pour faciliter le suivi médical.
